@@ -1,7 +1,7 @@
 # The one file the platform reads. Keep image tag equal to VERSION.
 name: ci-app
 team: demo
-owner: dackota.johnson@suresteel.com
+owner: dackota.j@gmail.com
 kind: container
 description: Template agent built and signed by the shared golden-path workflow.
 model: default-chat
